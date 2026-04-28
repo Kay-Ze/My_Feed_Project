@@ -134,8 +134,8 @@ npm run dev
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| `POST` | `/post/create` | Upload image + caption, save to DB |
-| `GET`  | `/post/all` | Fetch all posts for the feed |
+| `POST` | `/create-post` | Upload image + caption, save to DB |
+| `GET`  | `/feed` | Fetch all posts for the feed |
 
 ---
 
