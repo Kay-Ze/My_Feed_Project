@@ -10,7 +10,7 @@ A full-stack mobile-first social feed application where users can upload images 
 
 | Home Page | Create Post | My Feed |
 |:---------:|:-----------:|:-------:|
-| <img src="./screenshots/home-page.png" width="160"/> | <img src="./screenshots/create-post.png" width="160"/> | <img src="./screenshots/my-feed.png" width="160"/> |
+| <img src="./screenshots/home-page.png" width="160"/> | <img src="./screenshots/create-post.png" width="160"/> | <img src="./screenshots/feeds.png" width="160"/> |
 
 </div>
 
